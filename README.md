@@ -1,1 +1,3 @@
 # install sass
+# slick slider
+# 
